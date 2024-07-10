@@ -1,0 +1,1 @@
+# crud-template-nextjs-prisma
